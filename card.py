@@ -60,6 +60,7 @@ TODO:
 *3 trump values 0 1 2, when hand size == 8 -> only 1 trump value - how to handle?
 *select number of cards at the beginning of the game
 *shuffle method
+*deal cards method - between 1 and 8
 *populate deck method
 *anti-cheat method
 *display cards method
